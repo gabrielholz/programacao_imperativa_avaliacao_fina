@@ -1,0 +1,19 @@
+{
+  "name": "avaliacao_final",
+  "version": "1.0.0",
+  "description": "Avaliação final de programação imperativa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielholz/programacao_imperativa_avaliacao_fina.git"
+  },
+  "author": "Gabriel Holz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielholz/programacao_imperativa_avaliacao_fina/issues"
+  },
+  "homepage": "https://github.com/gabrielholz/programacao_imperativa_avaliacao_fina#readme"
+}
